@@ -19,4 +19,7 @@ My solutions to leetcode challenges
     <td>8.61</td>
   </tr>
 </table>
-**Submission column tracks passing submission** 
+
+**Submission column tracks passing submissions only** 
+
+
