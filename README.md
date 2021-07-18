@@ -22,8 +22,8 @@ My solutions to leetcode challenges
     <td>49. Group Anagrams</td>
     <td>Medium</td>
     <td>2</td>
-    <td>91.32</td>
-    <td>51.83</td>
+    <td> <a href="https://github.com/louipr/leetcode/blob/main/python/P49_Group_Anagrams/P49_Group_Anagrams.PNG">91.32</a></td>
+    <td> <a href="https://github.com/louipr/leetcode/blob/main/python/P49_Group_Anagrams/P49_Group_Anagrams.PNG">51.83</a></td>
   </tr>
 </table>
 
