@@ -1,6 +1,6 @@
 import unittest
-import P49_Group_Anagrams as _P49_Group_Anagrams
-import P49_Group_Anagrams_submission2 as _P49_Group_Anagrams_submission2
+from . import P49_Group_Anagrams as _P49_Group_Anagrams
+from . import P49_Group_Anagrams_submission2 as _P49_Group_Anagrams_submission2
 
 
 
