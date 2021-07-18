@@ -16,7 +16,7 @@ My solutions to leetcode challenges
     <td>Medium</td>
     <td>1</td>
     <td> <a href="https://github.com/louipr/leetcode/blob/main/python/P49_Group_Anagrams/P49_Group_Anagrams.PNG">91.32</a></td>
-    <td>8.61</td>
+    <td> <a href="https://github.com/louipr/leetcode/blob/main/python/P49_Group_Anagrams/P49_Group_Anagrams.PNG">8.61</a></td>
   </tr>
   <tr>
     <td>49. Group Anagrams</td>
