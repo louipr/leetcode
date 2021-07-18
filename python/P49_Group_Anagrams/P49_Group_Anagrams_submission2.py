@@ -2,6 +2,11 @@
 49. Group Anagrams
 Difficulty: Medium
 URL: https://leetcode.com/problems/group-anagrams/
+
+Runtime Analysis: 
+for val in strs loop increases wit N=len(strs)
+0<strs[i]<100 = c is bounded by constant. Therefore, sort operation is O(c) = O(1)
+O(c*N) = O(N)
 """
 class Solution(object):
     def groupAnagrams(self, strs):
