@@ -18,6 +18,13 @@ My solutions to leetcode challenges
     <td>91.32</td>
     <td>8.61</td>
   </tr>
+  <tr>
+    <td>49. Group Anagrams</td>
+    <td>Medium</td>
+    <td>2</td>
+    <td>91.32</td>
+    <td>8.61</td>
+  </tr>
 </table>
 
 **Submission used to track peformance improvement. Does not reflect leetcode submission order** 
