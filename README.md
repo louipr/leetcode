@@ -20,6 +20,6 @@ My solutions to leetcode challenges
   </tr>
 </table>
 
-**Submission column tracks passing submissions only** 
+**Submission used to track peformance improvement. Does not reflect leetcode submission order** 
 
 
