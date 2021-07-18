@@ -23,7 +23,7 @@ My solutions to leetcode challenges
     <td>Medium</td>
     <td>2</td>
     <td>91.32</td>
-    <td>8.61</td>
+    <td>51.83</td>
   </tr>
 </table>
 
